@@ -1,2 +1,3 @@
-# Someapps
-Some simple apps.
+# Some simple apps.
+Credit: Binod Kandel.
+
